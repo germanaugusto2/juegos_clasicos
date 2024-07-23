@@ -9,14 +9,14 @@ body {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-image: url(images/juego.gif);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
 
 h1 {
     text-align: center;
-    color: #333;
+    color: #15d82f;
 }
 
 .games-list {
@@ -27,7 +27,7 @@ h1 {
 
 .game-link {
     text-decoration: none;
-    color: #333;
+    color: #3bcd17;
     transition: transform 0.2s;
 }
 
@@ -36,7 +36,7 @@ h1 {
 }
 
 .game-card {
-    background-color: #fff;
+    background-color: #ffffff62;
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -45,7 +45,7 @@ h1 {
 
 .game-card h2 {
     margin-bottom: 10px;
-    color: #333;
+    color: #c20e0e;
 }
 
 .game-card img {
